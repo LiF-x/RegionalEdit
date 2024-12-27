@@ -3,7 +3,7 @@
 * <email>lifxmod@gmail.com</email>
 * <url>lifxmod.com</url>
 * <credits></credits>
-* <description>Bounty Hunters mod, every hour the server selects at random a player to be hunted, on the death of this player, the killer recieves a reward for the kill</description>
+* <description>Add Extra Regions to your life is feudal your own server!</description>
 * <license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
 */
 
@@ -35,8 +35,6 @@ package LiFxRegions {
                                                              // 2431 is Sleepers Forge
   dbi.Update("INSERT IGNORE `regions` VALUES (NULL, 2432)"); // Parched Winds
   dbi.Update("INSERT IGNORE `regions` VALUES (NULL, 2433)"); // Wardens of the East
-
-  dbi.Update("INSERT IGNORE `regions` VALUES (NULL, 2423, )"); // Icy Hermits
 
   // Regional mapping
   dbi.Update("TRUNCATE TABLE `neighbor_regions`");
