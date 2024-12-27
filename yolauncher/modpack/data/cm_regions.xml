@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<regions>
+	<region id="12" name_msgid="2434" /> <!-- sleepers forge -->
+	<region id="13" name_msgid="2450" /> <!-- sleepers tongs -->
+	<region id="14" name_msgid="2451" /> <!-- sleepers hammer -->
+	<region id="15" name_msgid="2423" /> <!-- icy hermits -->
+	<region id="16" name_msgid="2424" /> <!-- chilling thickets -->
+	<region id="17" name_msgid="2425" /> <!-- rocky plains -->
+	<region id="18" name_msgid="2426" /> <!-- central domain -->
+	<region id="19" name_msgid="2427" /> <!-- Western domain -->
+	<region id="20" name_msgid="2428" /> <!-- Southern Drifters -->
+	<region id="21" name_msgid="2429" /> <!-- Parched Winds -->
+	<region id="22" name_msgid="2430" /> <!-- Wardens of the east -->
+</regions>
