@@ -19,9 +19,7 @@
   "loadOrderHint": 100,
   "files": {
     "overlay": [
-      { "target": "server",         "src": "mods/",             "dest": "mods/" },
-      { "target": "server",         "src": "yolauncher/",       "dest": "yolauncher/" },
-      { "target": "client-modpack", "src": "yolauncher/modpack/", "dest": "./" }
+      { "src": "mods/", "dest": "mods/" }
     ],
     "dataPatches": []
   }
